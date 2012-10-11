@@ -20,7 +20,7 @@ class ZjqPlot_Version extends Zikula_AbstractVersion
 		$meta['description']    = $this->__('jqPlot integration for Zikula 1.3.x');
 		//! module name that appears in URL
 		$meta['url']            = $this->__('Zjq');
-		$meta['version']        = '0.0.1';
+		$meta['version']        = '0.1.0';
 		$meta['core_min']       = '1.3.3';
 		$meta['core_max']       = '1.3.99';
 
