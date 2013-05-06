@@ -19,4 +19,4 @@ Released under the GNU GPL
 
 Example implementation
 -------
-You can find a example implementation in the WebMath module (lmm-git->WebMath) at /src/modules/WebMath/lib/WebMath/Form/Handler/User/CalcAcceleration.php. Good luck! ;)
+You can find a example implementation in the WebMath module (lmm-git->WebMath) at ```/src/modules/WebMath/lib/WebMath/Form/Handler/User/CalcAcceleration.php```. Good luck! ;)
